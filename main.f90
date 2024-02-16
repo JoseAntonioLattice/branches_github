@@ -2,6 +2,6 @@ program main
 
   implicit none
 
-  print*, "Version 1"
+  print*, "Version 2"
 
 end program main
