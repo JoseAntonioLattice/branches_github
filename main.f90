@@ -9,4 +9,6 @@ program main
   print*, "linea 4"
   print*, "linea 5"
 
+  print*, "Linea obrador"
+
 end program main
